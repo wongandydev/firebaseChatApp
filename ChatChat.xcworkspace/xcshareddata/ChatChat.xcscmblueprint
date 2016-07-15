@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2DD73303DA5E7F7B6FAD6EC4E909581BFBDB898C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2DD73303DA5E7F7B6FAD6EC4E909581BFBDB898C" : 0,
+    "8EB8D16D2DC515A52A17BA59C83D8351EE0BB971" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6E94316F-8B2E-4BD9-AAD9-81A8B5CA980E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2DD73303DA5E7F7B6FAD6EC4E909581BFBDB898C" : "ChatChat-starter\/",
+    "8EB8D16D2DC515A52A17BA59C83D8351EE0BB971" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChatChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChatChat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wongandydev\/firebaseChatApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DD73303DA5E7F7B6FAD6EC4E909581BFBDB898C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wongandydev\/firebaseChatApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8EB8D16D2DC515A52A17BA59C83D8351EE0BB971"
+    }
+  ]
+}

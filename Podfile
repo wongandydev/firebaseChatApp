@@ -6,5 +6,6 @@ target 'ChatChat' do
 
   # Pods for ChatChat
 	pod 'Firebase'
+	pod 'Firebase/Auth'	
 	pod 'JSQMessagesViewController'
 end
